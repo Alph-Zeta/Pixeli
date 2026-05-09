@@ -88,6 +88,7 @@ You can download and run the application from the **Releases** section of this r
 -  Save the processed image to your device
 
 
+![App Screenshot](images/app.png)
 
 ## Repository Structure
 
