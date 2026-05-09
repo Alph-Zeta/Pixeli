@@ -70,7 +70,23 @@ Features:
 ![Converted Pixel Art Result](images/pixel_auto.png)
 
 
----
+
+# App
+
+A simple tool for editing and transforming images with real-time controls.
+
+## How to use
+
+You can download and run the application from the **Releases** section of this repository.
+
+##  Features
+
+-  Adjust **color saturation**
+- Change **contrast**
+-  Reduce colors
+-  Set **custom pixel size**
+-  Save the processed image to your device
+
 
 
 ## Repository Structure
