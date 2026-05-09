@@ -77,15 +77,14 @@ Features:
 
 ```text
 .
-├── logo_gui.py
-├── mario_pixel_art.py
-├── image_to_pixel_art.py
-├── requirements.txt
+├── logo.py
+├── mario.py
+├── pixel_art_auto.py
 ├── README.md
 └── images/
-    ├── logo_result.png
-    ├── mario_result.png
-    ├── converter_result.png
+    ├── logo.png
+    ├── mario.png
+    ├── pixel_auto.png
     └── image.png
 ```
 
